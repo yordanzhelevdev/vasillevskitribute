@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Ruslan+Display');
+@import url('https://fonts.googleapis.com/css?family=Marck+Script');
+@import url('https://fonts.googleapis.com/css?family=Gabriela');
+
+
+body{
+  background-color: black;
+  color:white;
+}
+
+#page-header {
+  margin-bottom: 30px;
+}
+
+#biography {
+  margin-bottom: 30px;
+}
+
+p{
+  font-family: 'Gabriela', serif;
+  font-size:19px;
+}
+
+a{
+  color:white;
+}
+
+h1{
+  font-size:50px;
+   font-family: 'Marck Script', cursive;
+  font-weight:bold;
+}
+
+.white{
+  color:white;
+}
+
+.green{
+  color:green;
+}
+
+.red{
+  color:red;
+}
+
+.old{
+  font-family: FreeSerif, LazovBold, Lazov, 'Menaion Medieval', Dilyana, Vikidemia;
+  font-size:18px;
+  font-weight:bold;
+}
+
+h2{
+  font-family: 'Marck Script', cursive;
+font-size:45px;
+}
+
+.str-italic{
+  font-style:italic;
+}
+
+.active{
+  background-color: rgba(53,53,53,0.9);
+}
