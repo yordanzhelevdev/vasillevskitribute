@@ -8,14 +8,6 @@ body{
   color:white;
 }
 
-#page-header {
-  margin-bottom: 30px;
-}
-
-#biography {
-  margin-bottom: 30px;
-}
-
 p{
   font-family: 'Gabriela', serif;
   font-size:19px;
@@ -29,6 +21,39 @@ h1{
   font-size:50px;
    font-family: 'Marck Script', cursive;
   font-weight:bold;
+}
+
+
+h2{
+  font-family: 'Marck Script', cursive;
+font-size:45px;
+}
+
+
+
+#page-header {
+  margin-bottom: 30px;
+}
+
+#biography {
+  margin-bottom: 30px;
+}
+
+
+footer{
+  height: 60px;
+  line-height: 60px;
+  background-color: black;
+}
+
+footer img{
+  width:30px;
+  color:white;
+}
+
+footer a, footer a:hover{
+  text-decoration: none;
+  color: #922031;
 }
 
 .white{
@@ -49,11 +74,6 @@ h1{
   font-weight:bold;
 }
 
-h2{
-  font-family: 'Marck Script', cursive;
-font-size:45px;
-}
-
 .str-italic{
   font-style:italic;
 }
@@ -61,3 +81,4 @@ font-size:45px;
 .active{
   background-color: rgba(53,53,53,0.9);
 }
+
